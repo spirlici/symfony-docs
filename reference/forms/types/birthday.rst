@@ -28,6 +28,7 @@ option defaults to 120 years ago to the current year.
 |                      | - `days`_                                                                     |
 |                      | - `placeholder`_                                                              |
 |                      | - `format`_                                                                   |
+|                      | - `html5`_                                                                  |
 |                      | - `input`_                                                                    |
 |                      | - `model_timezone`_                                                           |
 |                      | - `months`_                                                                   |
